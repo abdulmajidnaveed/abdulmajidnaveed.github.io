@@ -59,6 +59,10 @@ a.nav-item:hover {
 	max-height:40px;
 }
 
+.project-figure-container {
+	max-height: 220px;
+}
+
 .project-figure {
 	margin: 0 auto 1rem auto;
 	max-height: 256px;
