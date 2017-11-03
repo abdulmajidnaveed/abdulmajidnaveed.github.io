@@ -60,7 +60,7 @@ a.nav-item:hover {
 }
 
 .project-figure-container {
-	max-height: 220px;
+	height: 220px;
 }
 
 .project-figure {
