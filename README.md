@@ -2,7 +2,7 @@
 Welcome! I'm AbdulMajid Naveed, a software engineer. This is a portfolio of my work and projects.
 
 ## About
-This is the first version of my portfolio, based off a template using basic HTML, CSS. Check it out at `abdulmajidnaveed.github.io`.
+This is the first version of my portfolio, based off a template using basic HTML, CSS. Check it out [here](https://abdulmajidnaveed.github.io/) at `abdulmajidnaveed.github.io`.
 
 # Projects
 * [Project 1](#project-1)
